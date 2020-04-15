@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "515378757723",
+    "firebase_url": "https://text-recognition-app-f7666.firebaseio.com",
+    "project_id": "text-recognition-app-f7666",
+    "storage_bucket": "text-recognition-app-f7666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515378757723:android:6a01157865851c7573ff7e",
+        "android_client_info": {
+          "package_name": "bkp.com.textrecognitionfromcamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515378757723-p6925t46jvo8pmspnorsgdni4hl4nohc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN1WssT9u8xI9E-CbI43kvBXRegocgvTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515378757723-p6925t46jvo8pmspnorsgdni4hl4nohc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
